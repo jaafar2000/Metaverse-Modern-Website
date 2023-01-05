@@ -1,4 +1,5 @@
 # Metaverse Using NextJS 13
+ Metaverse website using Next13, Framer Motion, and Tailwind CSS.
 
 ## Welcome! 👋
 Thanks for checking out this Application.
@@ -15,6 +16,7 @@ Thanks for checking out this Application.
 - Next JS 13
 - Tailwind Css
 - Vercel
+- Framer Motion
 - JavaScript
 - JSX
 
